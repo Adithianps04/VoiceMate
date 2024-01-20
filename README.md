@@ -11,12 +11,7 @@ Welcome to VoiceMate, your smart and intuitive personal assistant! 🌟 This Pyt
 - **Calendar Integration:** Schedule events and set reminders effortlessly.
 
 ## Project Structure 📁
-- **features.py:** Main script with the implementation of exciting features.
-- **codeassistance.py:** Code assistance logic powered by the OpenAI API.
-- **knowledgequeries.py:** Fetching knowledge using the OpenAI API.
-- **languagetranslation.py:** Language translation using the Google Translate API.
-- **notetaking.py:** Organize your thoughts with VoiceMate's note-taking functionality.
-- **calendarintegration.py:** Seamlessly integrate with your calendar for scheduling.
+- **app.py:** Main script with the implementation of exciting features.
 
 ## Usage 🛠️
 1. Create a virtual environment: `python -m venv venv`
